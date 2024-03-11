@@ -1,0 +1,28 @@
+.todo-items {
+  background-color: rgb(43, 62, 183);
+  width: 380px;
+  height: auto;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
+
+.listName {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.logo {
+  margin: 2px;
+  display: flex;
+  flex-direction: row;
+}
+.logo2 {
+  padding-left: 29px;
+}
